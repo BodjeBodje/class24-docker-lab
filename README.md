@@ -1,1 +1,0 @@
-# class24-docker-lab
